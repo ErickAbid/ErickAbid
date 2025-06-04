@@ -18,7 +18,6 @@
 ✉️ &nbsp;Reach out at **erick.arguetasoft@gmail.com** — I usually reply fast.  
 📄 &nbsp;Here's my [Résumé](https://drive.google.com/file/d/141ipuObfPOdMgH5dtk-yd4my1tWVeVVn/view?usp=sharing) — I'm open to opportunities and feedback!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
